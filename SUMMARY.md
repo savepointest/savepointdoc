@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About SavePoint Doc](README.md)
+* [About SavePoint Guide](README.md)
 * [SavePoint Monitoring System](savepoint-monitoring-system/README.md)
   * [User Interface](savepoint-monitoring-system/user-interface/README.md)
     * [Login](savepoint-monitoring-system/user-interface/login.md)
