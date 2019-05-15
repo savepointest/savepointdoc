@@ -2,5 +2,5 @@
 
 Here you can learn all the features of SavePoint's Monitoring/Tracking System!
 
-Click Next below or clock "SavePoint Moitoring System" to start view the Guide
+Click Next below or  "SavePoint Moitoring System" in the left panel to start viewing the Guide
 
