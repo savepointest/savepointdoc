@@ -2,7 +2,7 @@
 
 [Users](https://docs.wialon.com/en/hosting/cms/users/users) can configure some system operation parameters according to their needs and tasks.
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ![:!:](https://docs.wialon.com/en/hosting/lib/images/smileys/icon_exclaim.gif) _Note._  
 User settings can be changed if the corresponding checkbox has been marked in the [user properties](https://docs.wialon.com/en/hosting/cms/users/props#general) dialog.
