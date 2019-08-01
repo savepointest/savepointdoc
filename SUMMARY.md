@@ -8,5 +8,4 @@
     * [منطقة العمل](savepoint-monitoring-system/wajhh-almstkhdm/mntqh-alaml.md)
     * [Untitled](savepoint-monitoring-system/wajhh-almstkhdm/untitled-1-1.md)
     * [Untitled](savepoint-monitoring-system/wajhh-almstkhdm/untitled-1.md)
-* [Untitled](untitled-1.md)
 
